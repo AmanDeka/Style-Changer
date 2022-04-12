@@ -28,5 +28,7 @@ An Interactive app for suggesting casual and formal styles of text
   </p>
   <p align="center">
     <img src="Screenshots/4.JPG" width="65%" height="60%"/>
-  </p>
-  
+  </p><br>
+ 
+ ## Demo Video
+  <img src="demo.gif" width="65%" height="60%"/> 
