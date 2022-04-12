@@ -14,6 +14,19 @@ An Interactive app for suggesting casual and formal styles of text
   python style_changer.py
   ```
   <p align="center">
-    <img src="Screenshots/1.jpg" width="65%" height="60%"/>
+    <img src="Screenshots/1.JPG" width="65%" height="60%"/>
+  </p>
+ - Type the text in the blank box
+  <p align="center">
+    <img src="Screenshots/2.JPG" width="65%" height="60%"/>
+  </p>
+ - Click the <i>Change Style</i> button<br>
+ - The suggestions will appear in the drop down menu</br></br>
+ 
+  <p align="center">
+    <img src="Screenshots/3.JPG" width="65%" height="60%"/>
+  </p>
+  <p align="center">
+    <img src="Screenshots/4.JPG" width="65%" height="60%"/>
   </p>
   
