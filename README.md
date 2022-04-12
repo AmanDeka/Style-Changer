@@ -31,4 +31,4 @@ An Interactive app for suggesting casual and formal styles of text
   </p><br>
  
  ## Demo Video
-  <img src="demo.gif" width="65%" height="60%"/> 
+  <img src="https://github.com/AmanDeka/Style-Changer/blob/master/demo%20.gif" width="65%" height="60%"/> 
