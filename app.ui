@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Style Changer</string>
   </property>
   <property name="styleSheet">
    <string notr="true">background-color: rgb(85, 255, 255);</string>
@@ -28,6 +28,7 @@
     </property>
     <property name="styleSheet">
      <string notr="true">background-color: rgb(255, 255, 255);
+font: 11pt &quot;MS Shell Dlg 2&quot;;
 border-radius: 50%</string>
     </property>
    </widget>
@@ -35,13 +36,14 @@ border-radius: 50%</string>
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>280</y>
+      <y>250</y>
       <width>711</width>
-      <height>22</height>
+      <height>51</height>
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">background-color: rgb(170, 85, 255);</string>
+     <string notr="true">font: 11pt &quot;MS Shell Dlg 2&quot;;
+background-color: rgb(255, 170, 255);</string>
     </property>
    </widget>
    <widget class="QLabel" name="label">
