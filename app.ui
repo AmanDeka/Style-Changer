@@ -61,7 +61,7 @@ color: rgb(255, 0, 255);</string>
      <string>Style Changer</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="button">
     <property name="geometry">
      <rect>
       <x>320</x>
